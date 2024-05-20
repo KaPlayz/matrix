@@ -1,4 +1,4 @@
 # Matrix
-Script src: https://cdn.jsdelivr.net/gh/KaPlayz/Matrix@main/script.js
-Style src: https://cdn.jsdelivr.net/gh/KaPlayz/Matrix@main/style.css
-    HTML file works without style and script
+Script src: https://cdn.jsdelivr.net/gh/KaPlayz/matrix.github.io@main/script.js
+Style src: https://cdn.jsdelivr.net/gh/KaPlayz/matrix.github.io@main/style.css
+    HTML does not work without style! 
